@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000978343390",
+    "project_id": "chat-app-kachhadiya",
+    "storage_bucket": "chat-app-kachhadiya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000978343390:android:18260bb72efaedfd40e94f",
+        "android_client_info": {
+          "package_name": "com.nichiyos.chat_app_kachhadiya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000978343390-dhiakobokb75i1vhpijm7p9hllki9nf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgUIS8NaIrpt-ulJvDOh7t8wWT6LRCL0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000978343390-dhiakobokb75i1vhpijm7p9hllki9nf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
