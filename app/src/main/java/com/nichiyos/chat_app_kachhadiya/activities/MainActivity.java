@@ -1,8 +1,10 @@
-package com.nichiyos.chat_app_kachhadiya;
+package com.nichiyos.chat_app_kachhadiya.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.nichiyos.chat_app_kachhadiya.R;
 
 public class MainActivity extends AppCompatActivity {
 
