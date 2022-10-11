@@ -1,5 +1,8 @@
 package com.nichiyos.chat_app_kachhadiya.models;
 
+import java.util.Date;
+
 public class ChatMessage {
-    public String senderId, receoverId, message, dateTime;
+    public String senderId, receiverId, message, dateTime;
+    public Date dateObject;
 }
